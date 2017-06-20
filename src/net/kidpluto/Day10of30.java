@@ -1,4 +1,4 @@
-package com.kidpluto;
+package net.kidpluto;
 
 import com.sun.org.apache.xpath.internal.operations.Bool;
 

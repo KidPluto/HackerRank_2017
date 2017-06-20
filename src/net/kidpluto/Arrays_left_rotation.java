@@ -1,4 +1,4 @@
-package com.kidpluto;
+package net.kidpluto;
 
 /**
  * Created by Chris on 3/4/2017.

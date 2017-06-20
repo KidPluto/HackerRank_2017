@@ -1,4 +1,4 @@
-package com.kidpluto;
+package net.kidpluto;
 
 import java.util.HashMap;
 import java.util.Map;

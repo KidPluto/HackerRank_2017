@@ -1,4 +1,4 @@
-package com.kidpluto;
+package net.kidpluto;
 
 public class Main {
 
